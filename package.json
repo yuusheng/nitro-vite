@@ -1,0 +1,19 @@
+{
+  "name": "nitro-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "bun --watch server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "h3": "^1.11.1",
+    "nitropack": "^2.9.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite": "^5.1.4"
+  }
+}
